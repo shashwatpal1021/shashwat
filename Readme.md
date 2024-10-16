@@ -4,7 +4,7 @@ I'm a **Full Stack Developer** based in India. I have a passion for building eff
 
 ## 🔭 Currently Working On
 
-I am currently focused on developing full-stack applications and enhancing my DevOps skills. 
+I am currently working at HTS Tech Solution as Software Backend Developer and focused on developing full-stack applications and enhancing my DevOps skills. 
 
 ## 🌐 Tech Stack
 
@@ -35,14 +35,10 @@ I am currently focused on developing full-stack applications and enhancing my De
 <a href="#" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="Linux" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="Bash" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank" title="ArgoCD" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="Kubernetes" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="#" target="_blank" title="Amazon Web Services" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank" title="Cloudflare" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="Cloudflare" width="30" height="30"/></a>&nbsp;&nbsp;
+
 
 ## 🚀 Projects
 
